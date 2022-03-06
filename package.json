@@ -9,6 +9,6 @@
     "build:prod": "NODE_ENV=production npx tailwindcss-cli@latest build ./src/styles/tailwind.css -o ./build/styles/index.css"
   },
   "keywords": [],
-  "author": "",
+  "author": "James Daniel Bain",
   "license": "ISC"
 }
